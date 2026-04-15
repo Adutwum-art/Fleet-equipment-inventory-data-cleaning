@@ -35,7 +35,7 @@ To transform raw CSV data into a clean and structured dataset by identifying and
 ## 📊 Visual Evidence
 
 ### Before Cleaning
-![Before Cleaning]https://github.com/Adutwum-art/Fleet-equipment-inventory-data-cleaning/blob/fd0dcfc1803d1ff58629217657e94b0b3f3a7b0d/Raw%20data%20csv%20before.messy.png
+![Before Cleaning](https://github.com/Adutwum-art/Fleet-equipment-inventory-data-cleaning/blob/fd0dcfc1803d1ff58629217657e94b0b3f3a7b0d/Raw%20data%20csv%20before.messy.png
 
 ### After Cleaning
 ![After Cleaning](https://github.com/Adutwum-art/Fleet-equipment-inventory-data-cleaning/blob/6448da3825a6c04eb22b20345e4dec4ab3a315d4/Prepared%20and%20Cleaned%20data.png)
