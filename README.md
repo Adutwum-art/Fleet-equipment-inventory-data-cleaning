@@ -12,11 +12,15 @@ To transform raw CSV data into a clean and structured dataset by identifying and
 
 ---
 
-## 📁 Dataset
+## 📁 Dataset Overview
 
-- Raw file: Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv
-- Final cleaned file: Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx
+This project uses raw fleet equipment data which was cleaned and transformed into an analysis-ready dataset.
 
+### 🔴 Raw Data
+`Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv`
+
+### 🟢 Cleaned Data
+`Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx`
 ---
 
 ## 🧹 Data Cleaning Steps
